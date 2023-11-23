@@ -4,7 +4,7 @@ const Aboutus=()=>{
     return(
         <>
         <h1>
-            About us page.
+            About us .
         </h1>
         </>
     );

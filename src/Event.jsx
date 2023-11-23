@@ -4,7 +4,7 @@ const Event =()=>{
     return(
         <>
         <h1>
-             Event Page.
+             Event .
         </h1>
         </>
     );
